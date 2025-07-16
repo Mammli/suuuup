@@ -1,0 +1,114 @@
+*{
+box-sizing: border-box;
+margin: 0;
+font-family: isans;
+}
+@font-face {
+	font-family: 'isans';
+	src: url('fonts/IRANSansWeb.eot') format('eot'),  /* IE6–8 */ url('fonts/IRANSansWeb.woff2') format('woff2'),  /* Chrome36+, Opera24+*/ url('fonts/IRANSansWeb.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	;
+}
+
+.header{
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+}
+.matn{
+display: flex;
+justify-content:space-between;
+
+}
+.icon1{
+    width: 20px;height: 20px;color: #2ab8f5;
+    margin-bottom: -5px;
+}
+.p1{
+    text-align: center;
+}
+.a1{
+text-decoration: none;
+
+}
+.Listha{
+display: grid; justify-content: center; align-items: center;
+
+}
+
+.ax1{
+    width: auto;height:  auto;
+}
+.ax2{
+    width:  auto;height:  auto;
+}
+.ax3{
+    width:  auto;height:  auto;
+}
+.ax4{
+    width:  auto;height:  auto;padding-right: 5px;
+}
+
+
+.img1{
+    margin-top: 30px;box-shadow: 2px 2px 5px #9a9a9c;
+   
+}
+.gheymat1{
+display: flex; margin-top: 30px;
+
+}
+
+.img2{
+    margin-top: 30px;box-shadow: 2px 2px 5px #9a9a9c;
+
+}
+.img3{
+    margin-top: 30px;box-shadow: 2px 2px 5px #9a9a9c;
+
+}
+.img4{
+    margin-top: 30px;box-shadow: 2px 2px 5px #9a9a9c;
+
+}
+.a10{
+    font-size: 12px;padding: 5px;text-decoration: none; color: #000; position: relative;; right: 5px;
+}
+.gheymat2{
+    margin-top: 47px;
+}
+.gheymat3{
+ margin-top: 50px;
+}
+.gheymat4{
+margin-top: 25px;
+}
+.gheymat5{
+margin-top: 27px;
+}
+.divparent{
+    display: flex; justify-content: space-between;margin-top: 20px;margin-bottom: 20px;
+}
+
+
+
+.icon2{
+    width: 15px; height: 15px; color: #ffff00;
+}
+
+
+
+
+
+.animated-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    transition: background-color 0.3s ease-in-out;margin-right: 50%; border-radius: 10px;
+  }
+  
+ 
+  
